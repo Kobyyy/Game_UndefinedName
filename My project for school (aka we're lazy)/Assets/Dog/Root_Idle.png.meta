@@ -465,20 +465,20 @@ TextureImporter:
     nameFileIdTable:
       Root_Idle_0: -1380153633
       Root_Idle_1: 793365046
-      Root_Idle_10: 800965493
-      Root_Idle_11: -1885625075
-      Root_Idle_12: -2075600937
-      Root_Idle_13: -87795170
-      Root_Idle_14: 1861141654
-      Root_Idle_15: -380438675
-      Root_Idle_2: 1797711878
-      Root_Idle_3: -1794858748
-      Root_Idle_4: -733846934
-      Root_Idle_5: -2058414520
-      Root_Idle_6: 403629965
-      Root_Idle_7: -813505325
-      Root_Idle_8: 1778680304
-      Root_Idle_9: 961795117
+      Root_Idle_10: 1797711878
+      Root_Idle_11: -1794858748
+      Root_Idle_12: -733846934
+      Root_Idle_13: -2058414520
+      Root_Idle_14: 403629965
+      Root_Idle_15: -813505325
+      Root_Idle_2: 1778680304
+      Root_Idle_3: 961795117
+      Root_Idle_4: 800965493
+      Root_Idle_5: -1885625075
+      Root_Idle_6: -2075600937
+      Root_Idle_7: -87795170
+      Root_Idle_8: 1861141654
+      Root_Idle_9: -380438675
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
