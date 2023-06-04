@@ -452,7 +452,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Power",
     "m_StageCapability": 3,
-    "m_Value": 0.029999999329447748,
+    "m_Value": 0.1599999964237213,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }

@@ -20,7 +20,7 @@ MonoBehaviour:
       RenderQueueType: 0
       LayerMask:
         serializedVersion: 2
-        m_Bits: 524288
+        m_Bits: 8912896
       PassNames: []
     overrideMaterial: {fileID: 0}
     overrideMaterialPassIndex: 0
@@ -77,8 +77,8 @@ MonoBehaviour:
     maskTextureChannel: 1
     blendMode: 0
   m_UseDepthStencilBuffer: 1
-  m_UseCameraSortingLayersTexture: 0
-  m_CameraSortingLayersTextureBound: -1
+  m_UseCameraSortingLayersTexture: 1
+  m_CameraSortingLayersTextureBound: -1869315837
   m_CameraSortingLayerDownsamplingMethod: 0
   m_MaxLightRenderTextureCount: 16
   m_MaxShadowRenderTextureCount: 1
@@ -131,7 +131,7 @@ MonoBehaviour:
       RenderQueueType: 0
       LayerMask:
         serializedVersion: 2
-        m_Bits: 524289
+        m_Bits: 8912897
       PassNames: []
     overrideMaterial: {fileID: 2100000, guid: d324b4cdf6b72b443b8fe8b74222de39, type: 2}
     overrideMaterialPassIndex: 0
