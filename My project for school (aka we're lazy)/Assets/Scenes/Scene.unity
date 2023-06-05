@@ -1721,7 +1721,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 181620571}
-  - component: {fileID: 181620573}
   m_Layer: 20
   m_Name: chests
   m_TagString: Untagged
@@ -1746,20 +1745,6 @@ Transform:
   m_Father: {fileID: 2012437221}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &181620573
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 181620570}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1c9e53b9c85e1064882ca0be559674ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  ChestClose: {fileID: 0}
-  ChestOpen: {fileID: 0}
 --- !u!1001 &182325952
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27073,9 +27058,9 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7075877539110819996}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f2b5f0e17ca91f449a6136790f4d7b5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pauseMenuUI: {fileID: 0}
+  pauseMenuUI: {fileID: 1493575280}
